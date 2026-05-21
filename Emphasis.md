@@ -1,4 +1,4 @@
-*Italic1* _Italic2_
+* Italic1 * _Italic2_
 **Bold1** __Bold2__
-***Bold_Italic***
+*** Bold_Italic ***
 ~~Strikethrough~~
