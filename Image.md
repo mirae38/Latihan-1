@@ -1,1 +1,2 @@
-![GitHub Logo](https://assets-cdn.github.com/images/icons/emoji/octocat.png "GitHub")
+![GitHub Logo]([https://assets-cdn.github.com/images/icons/emoji/octocat.png](https://github.com/mirae38/Latihan-1/blob/22399ce3251d35cf959b6de40af3f4ed1993f578/pexels-optical-chemist-340351297-31256343.jpg) "GitHub")
+
